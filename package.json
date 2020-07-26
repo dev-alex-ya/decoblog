@@ -1,0 +1,20 @@
+{
+  "name": "decoblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "browser-sync": "^2.26.10"
+  },
+  "scripts": {
+    "test": "test",
+    "serve": "browser-sync start --server --files '**/*.*' "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-alex-ya/decoblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/dev-alex-ya/decoblog/blob/master/README.md"
+}
